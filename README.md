@@ -90,9 +90,8 @@ jupyter lab
 
 ## Usage
 
-<br><b> Instructions for using the project or running specific functions.
-
-    <br><b>To use the notebooks in this repository:</br></b>
+- Instructions for using the project or running specific functions.
+To use the notebooks in this repository:
 
 1. Open Jupyter Notebook or Jupyter Lab.
 2. Navigate to the cloned repository directory.
@@ -100,7 +99,7 @@ jupyter lab
 4. Execute the code cells by clicking on them and pressing Shift+Enter.
 
 
-## Data
+## Data Source 
 
 The source of the repository is available at:[GitHub Repository]( https://github.com/wmnlp-materials/pyplot/blob/master/pyplot.ipynb)
 
@@ -108,9 +107,9 @@ The source of the repository is available at:[GitHub Repository]( https://github
 
 ## Contact
 
-For any questions, feedback, or inquiries, you can reach out to the repository owner:
+For any questions, feedback, or inquiries, you can reach me out to the my Github Repository :
 
-- GitHub: [GitHub Repository](https://github.com/NaiemaElsaadi/pyplot)
+- My GitHub at: [GitHub Repository](https://github.com/NaiemaElsaadi/pyplot)
 
 ## Acknowledgments
 
