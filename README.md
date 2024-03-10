@@ -42,7 +42,7 @@ Before running the project, ensure you have the following prerequisites:
 ## Getting Started
 
 - Before we begin, make sure you have the necessary dependencies installed in your Python environment. If you haven't already, you'll need to install Matplotlib using the following command:
-<br><b> pip install matplotlib</b>
+` pip install matplotlib`
 - install it into our active virtual environment and
 - use an import statement in our Python. 
 - Spelling and capitalization matters - to use a library, you might need to first search for the install commands and then find the typical way it is imported into Python. 
@@ -79,8 +79,8 @@ cd pyplot
 3. Create a virtual environment (optional but recommended):
 python -m venv venv
 4. Activate the virtual environment:
-<br> For Windows:
-<br>venv\Scripts\activate</br>
+ For Windows:
+venv\Scripts\activate</br>
 5. Install the required packages:  
 pip install -r requirements.txt
 6. Launch Jupyter Lab:
