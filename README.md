@@ -80,7 +80,7 @@ cd pyplot
 python -m venv venv
 4. Activate the virtual environment:
  For Windows:
-venv\Scripts\activate</br>
+venv\Scripts\activate
 5. Install the required packages:  
 pip install -r requirements.txt
 6. Launch Jupyter Lab:
