@@ -43,8 +43,8 @@ Before running the project, ensure you have the following prerequisites:
 
 - Before we begin, make sure you have the necessary dependencies installed in your Python environment. If you haven't already, you'll need to install Matplotlib using the following command:
 ` pip install matplotlib`
-- install it into our active virtual environment and
-- use an import statement in our Python. 
+- Install it into our active virtual environment.
+- Use an import statement in our Python. 
 - Spelling and capitalization matters - to use a library, you might need to first search for the install commands and then find the typical way it is imported into Python. 
 - The typical approach is to:
 1. Create a virtual environment
@@ -81,7 +81,7 @@ python -m venv venv
 4. Activate the virtual environment:
  For Windows:
 venv\Scripts\activate
-5. Install the required packages:  
+5. Install the required packages:
 pip install -r requirements.txt
 6. Launch Jupyter Lab:
 jupyter lab
@@ -91,7 +91,7 @@ jupyter lab
 ## Usage
 
 - Instructions for using the project or running specific functions.
-To use the notebooks in this repository:
+- To use the notebooks in this repository:
 
 1. Open Jupyter Notebook or Jupyter Lab.
 2. Navigate to the cloned repository directory.
